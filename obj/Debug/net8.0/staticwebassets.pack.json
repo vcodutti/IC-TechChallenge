@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/obj/Debug/net8.0/compressed/ey9apy958x.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/obj/Debug/net8.0/scopedcss/bundle/DynamicFormBlazor.styles.css",
+      "PackagePath": "staticwebassets/DynamicFormBlazor.styles.css"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/macbookpro/Projects/DynamicFormBlazor/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DynamicFormBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DynamicFormBlazor.props",
+      "PackagePath": "build\\DynamicFormBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DynamicFormBlazor.props",
+      "PackagePath": "buildMultiTargeting\\DynamicFormBlazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DynamicFormBlazor.props",
+      "PackagePath": "buildTransitive\\DynamicFormBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
